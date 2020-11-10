@@ -16,9 +16,9 @@ setup(
   url='',  
   author='ahmed elnakeeb',
   author_email='ahmedelnakeeb2016@outlook.com',
-  license='MIT', 
+  license=' GNU GPLv3', 
   classifiers=classifiers,
-  keywords='calculator', 
+  keywords='printess', 
   packages=find_packages(),
   install_requires=[''] 
 )
